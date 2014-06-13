@@ -1,3 +1,11 @@
+######LEARN ABOUT CLASS CONSTANTS
+##class damage (miles, damage to car)
+##straight line depreciation, cap at 0
+#add cars to car lot; add things to colection (collection of damages on car)
+###have separate files for each class
+#make 5% class constant
+
+
 # Honest Tom's Dealership
 
 *"...and if you sign today, we'll throw in an extended warranty!"*
